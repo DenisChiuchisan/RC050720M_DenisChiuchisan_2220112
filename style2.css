@@ -1,0 +1,28 @@
+table {
+    width: 50%; /* Define a largura da tabela para 50% */
+    margin: 0 auto; /* Centraliza a tabela na página */
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    background-color: #1056a7;
+    color: white;
+  }
+
+  .btn{
+      text-align: center; 
+       width: 100px;  
+       height: 20px; 
+       margin-top: 30px;
+        background-color: #1056a7;
+         border: 1px solid black; 
+         display: inline-block; 
+         color: white; 
+     font-size: 13px; 
+     text-decoration: none;
+    }
+  

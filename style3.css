@@ -1,0 +1,27 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+
+  input[type="text"] {
+    width: 60px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+
+  button {
+    padding: 5px 10px;
+    background-color: #1056a7;
+    border-radius: 5px;
+    border: 1px solid gray;
+    cursor: pointer;
+    color: white;
+  }
